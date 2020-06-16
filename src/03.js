@@ -1,8 +1,7 @@
 const prompt = require('prompt-sync')()
 
-firstname = prompt("What is your first name? > ")
+const firstname = prompt("What is your first name? > ")
+const space = (" ")
+const lastname = prompt("What is your last name? > ")
 
-space = (" ")
-
-lastname = prompt ("What is your last name? > " )
 console.log("Hello, " + firstname + space + lastname)
