@@ -253,8 +253,8 @@
 
 By the end, you should have examples of each of these in your code:
 
-- [ ] `console.log()`
-- [ ] string
+- [x] `console.log()`
+- [x] string
 - [ ] number
 - [ ] boolean
 - [ ] concatenation
