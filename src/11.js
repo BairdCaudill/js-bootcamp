@@ -1,15 +1,3 @@
-// function add(asd69, p2) {
-//     return asd69 + p2;
-// }
-
-// console.log(add(7, 312))
-// console.log(add(-42, 1))
-
-// console.log(add('foo', 'pizza'))
-// console.log(add('foo'))
-
-// console.log(add([1, 2], [3, 4]))
-
 function sum(a) {
     let result = 0
     let i = 0
