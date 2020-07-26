@@ -1,12 +1,11 @@
 function sum(a) {
-    let answer = 0
+    let result = 0
     let i = 0
     while (a.length !== i) {
-        answer = answer + a[i]
+        result = result + a[i]
         i = i + 1
     }
-    return answer
+    return result
 }
-
 
 module.exports = { sum }
