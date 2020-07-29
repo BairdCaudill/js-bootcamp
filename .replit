@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "yarn jest 16"
+run = "yarn jest 17"
