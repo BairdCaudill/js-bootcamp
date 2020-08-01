@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "yarn jest 17"
+run = "yarn node ./src/21.js"

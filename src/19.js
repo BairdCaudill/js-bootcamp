@@ -1,8 +1,7 @@
+const { divisiblebyN } = require("./20")
+
 function divisibleby5(a) {
-    if (a % 5 === 0)
-        return true
-    else
-        return false
+    return divisiblebyN(a, 5)
 }
 
 

@@ -1,10 +1,7 @@
+const { divisiblebyN } = require('./20')
+
 function iseven(peepeepoopoo) {
-    if (peepeepoopoo % 2 === 0)
-        return true
-    else
-        return false
+	return divisiblebyN(peepeepoopoo, 2)
 }
-
-
 
 module.exports = { iseven }
