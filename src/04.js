@@ -7,6 +7,4 @@ secondnumber = prompt("Whats your second number > ")
 
 const message = `${firstnumber} x ${secondnumber} = ${firstnumber * secondnumber}`;
 
-console.log(message) ;{
-
-}
+console.log(message) 
