@@ -25,4 +25,6 @@ const squareroot = n => {
     return guess
 }
 
+console.log(squareroot(9))
+
 module.exports = { squareroot }

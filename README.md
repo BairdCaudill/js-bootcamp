@@ -255,30 +255,30 @@ By the end, you should have examples of each of these in your code:
 
 - [x] `console.log()`
 - [x] string
-- [ ] number
-- [ ] boolean
-- [ ] concatenation
-- [ ] `if`/`then`/`else`
-- [ ] 'not' operator `!`
-- [ ] modulo operator `%`
-- [ ] array
-- [ ] object
-- [ ] string interpolation: `` `${foo}` ``
-- [ ] `Math.floor()`
-- [ ] `Math.random()`
-- [ ] `while` loop
+- [x] number
+- [x] boolean
+- [x] concatenation
+- [x] `if`/`then`/`else`
+- [x] 'not' operator `!`
+- [x] modulo operator `%`
+- [x] array
+- [x] object
+- [x] string interpolation: `` `${foo}` ``
+- [x] `Math.floor()`
+- [x] `Math.random()`
+- [x] `while` loop
 - [ ] `do`/`while` loop
 - [ ] `for (x; x < n; x++)`
 - [ ] `for (x in y)`
-- [ ] `for (x of y)`
-- [ ] `describe`/`test`/`expect`
+- [x] `for (x of y)`
+- [x] `describe`/`test`/`expect`
 - [ ] ternary operator `?`/`:`
-- [ ] arrow function `() => {}`
-- [ ] `BigInt`
+- [x] arrow function `() => {}`
+- [x] `BigInt`
 - [ ] `filter`, `all`, `some`
 - [ ] `map`, `reduce`
-- [ ] recursion
-- [ ] `class`
-- [ ] `require`
+- [x] recursion
+- [x] `class`
+- [x] `require`
 - [ ] `fetch`
 - [ ] `async`/`await`
