@@ -62,9 +62,9 @@ let d1 = new Deck()
 
 d1.shuffle()
 
-console.log(d1.deal())
-console.log(d1.deal(4))
-console.log(d1.deal(7))
-console.log(d1.deal(1))
+console.log(d1.deal(8965))
+console.log(d1.deal(5))
+console.log(d1.deal(5))
+console.log(d1.deal(5))
 
 console.log(d1.count())
