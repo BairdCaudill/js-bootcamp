@@ -1,4 +1,4 @@
-// 27. Write a `Deck` class that represents a deck of cards. It should start with the cards sorted. It
+[// 27. Write a `Deck` class that represents a deck of cards. It should start with the cards sorted. It
 //     should have methods to shuffle; to deal a hand of four cards; and to count the number of cards
 //     left.
 
